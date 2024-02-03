@@ -1,14 +1,18 @@
-# ML-Trading-Bot
-Enhancement of existing trading signals with machine learning algorithms that can adapt to new data.
+# Machine Learning Trade Bot
 
-Demonstration 1: Tune the training algorithm by adjusting the size of the training dataset; to do so, data is sliced into different periods. 
+## *Enhancement of existing trading signals with machine learning algorithms that can adapt to new data.*
 
-Demonstration 2: Tune the trading algorithm by adjusting the SMA input features. Adjusted one of the windows for the algorithm with re-run notebook showing the updated parameters. 
+As a Licensed Financial Planner & Experience Fnancial Advisor at one of the top global investment firms in the world, firms often find themsleves in the thick of constant competition with othger major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, investment firms of all sizes have heavily profited by developing and using computer algorithms that can buy and sell faster than human traders.
 
-Observation: By increasing/decreasing either SMA window (doubled for long window and increased short window from 4 to 25, the impact appears minimal, however in the beginning we show it more correlated and parralel.
+The speed of these transactions ggive investment advisoryt firms a competitive advantage early on. Unbeknownst to even the best traders and advisors, tech people still need to specifically program these systems (often even above their highest performing paygrade), which limits their ability to adapt to new data. The true competitive race to industry dominance exists within the continued upgrading of existing algorithmic trading systems to maintain the firm’s competitive advantage in the market. Nothing moreso than the enhancement of existing trading signals leveraging Machine Learning algorithms that can adapt to new data.
 
-Demonstration 3: Identify the set of parameters that best improved the trading algorithm returns. PNG photo saved shows visualized cumulative product of the actual returns vs. the strategy returns, for documented conclusion in README.md file.
+#### *Demonstrated Usage:*
 
-Observation: Currently Testing.
+* Establish a Baseline Performance
 
-** PNG Visualizations of each Model, can be found in the Resources folder in the Github Repo. **
+* Tune the Baseline Trading Algorithm
+
+* Evaluate a New Machine Learning Classifier
+
+* Create an Evaluation Report
+
